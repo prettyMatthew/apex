@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Apex",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "apex.png"
+  },
+  "icons": {
+    "128": "apex.png"
+  }
+}
